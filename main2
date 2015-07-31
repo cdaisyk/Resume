@@ -1,0 +1,13 @@
+.nav {
+	display: inline;
+}
+}
+.container {
+	width: 400px;
+	margin: 40px auto 60px;
+	height: 400px;
+}
+.experience {
+	width: 700px;
+	margin: 35px auto 50px;
+}

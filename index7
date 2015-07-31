@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link href="boostrap.min.css" rel="stylesheet">
+			<link href="main3.css" rel="stylesheet">
+		</head>
+		<body>
+			<div id="container">
+					<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1dc/3ae/38e889a.jpg" id="portrait">
+				<div id="identity">
+					Charlotte Kroening
+				</div>
+				<div id="contact-info">
+					<p>
+						612-702-6665
+						<br>
+								1140 Sterling Lane N., Maplewood, MN 55119
+							</p>
+				</div>
+				<div id="main-body">
+					<div id="overview">
+						<div id="overview-main">
+						Innovative, dependable designer and student passionate about helping others and about utilizing new technologies to do so. Focused and balanced approach to analyzing and solving problems. Interested in application and user experience design and motivated to merge seemingly unrelated concepts toward unique and unified solutions.</p> 
+						</div>
+					</div>
+
+					<div id="professional">
+						<div id="professional-header">
+							Professional Experience
+						</div>
+							<div id="counselor">
+								<h3>Program Counselor</h3>
+								<div class="date-code">
+									<div class="date">
+										June 2015 - Present
+									</div>
+									<h4>ACR Homes</h4>
+								</div>
+									<div class="counselor-work">
+										<ul>
+											<li></li>
+											<li></li>
+										</ul>
+									</div>
+							</div>
+						<div id="engineering">
+							<h3>Century College</h3>
+						</div>
+
+
+
+
+
+
