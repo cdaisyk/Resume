@@ -1,13 +1,24 @@
-.nav {
-	display: inline;
-}
+.jumbotron {
+	font-family: georgia;
+	width: 1000px;
 }
 .container {
-	width: 400px;
-	margin: 40px auto 60px;
-	height: 400px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: georgia;
 }
-.experience {
+.section {
 	width: 700px;
 	margin: 35px auto 50px;
+	border-top: 2px solid;
+}
+.company {
+	text-decoration: underline;
+}
+.date {
+	font-style: italic;
+}
+.container h6 {
+	font-style: italic;
 }
